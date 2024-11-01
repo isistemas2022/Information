@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
   <body>
@@ -10,10 +8,23 @@
         <p>Mi Enfoque | 
         En el aprendizaje continuo y la innovación, aplicando nuevas tecnologías para crear soluciones de impacto.</p>
       </div>
+<div class="section">
+        <h2 class="section-title">Información Personal</h2>
+        <p><strong>Nombre:</strong> Carlos Zambrano</p>
+        <p><strong>Dirección:</strong> Lima</p>
+        <p><strong>Teléfono:</strong> 925368231</p>
+        <p><strong>Correo electrónico:</strong> isistemas2022@gmail.com</p>
+      </div>
+<div class="section">
+        <h2 class="section-title">Experiencia Laboral</h2>
+        <p><strong>EMPRESA</strong> - Innovatech  - 30/08/2019 - Actualmente</p>
+        <ul>
+          <li>Arquitecto de Software | Desarrollo e implementación de Sistemas optimizados.</li>
+          <li>Arquitecto de Infraestructura de TI | responsable de diseñar y planificar la infraestructura tecnológica</li>
+        </ul>
+      </div>
   </body>
-</html>
-
----
+ </html>
 
 ##### Lenguajes de programación
 
@@ -28,19 +39,6 @@
 
 ##### Algunas de las tecnologías con las que he trabajado
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
 ---
