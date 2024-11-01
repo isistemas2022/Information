@@ -1,15 +1,16 @@
-<h5>Carlos Zambrano</h5>
+
 
 <!DOCTYPE html>
 <html>
-
-<body>
-  <h1>Ingeniero de Sistemas</h1>
-  <p>Ingeniero de Sistemas |
-   Especializado en Aprendizaje Automático y Minería de Datos utilizando Python. También gestiono actividades relacionadas con tecnologías de Frontend y Backend.</p>
-  <p>Mi Enfoque | 
-  En el aprendizaje continuo y la innovación, aplicando nuevas tecnologías para crear soluciones de impacto.</p>
-</body>
+  <body>
+      <div class="text-container">
+        <h1>Ingeniero de Sistemas</h1>
+        <p>Ingeniero de Sistemas |
+         Especializado en Aprendizaje Automático y Minería de Datos utilizando Python. También gestiono actividades relacionadas con tecnologías de Frontend y Backend.</p>
+        <p>Mi Enfoque | 
+        En el aprendizaje continuo y la innovación, aplicando nuevas tecnologías para crear soluciones de impacto.</p>
+      </div>
+  </body>
 </html>
 
 ---
